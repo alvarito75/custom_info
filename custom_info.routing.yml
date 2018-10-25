@@ -1,0 +1,8 @@
+
+custom_info.axelerant_controller:
+  path: '/page_json/{siteApiKey}/{nid}'
+  defaults:
+    _controller: '\Drupal\custom_info\Controller\AxelerantController::getJsonNode'
+    _title: 'Axelerant'
+  requirements:
+    _permission: 'access content'

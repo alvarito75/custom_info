@@ -1,0 +1,14 @@
+{
+  "name": "drupal/custom_info",
+  "type": "drupal-module",
+  "description": "This module modifies Drupal's Site Information.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/custom_info",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/custom_info",
+    "source": "http://cgit.drupalcode.org/custom_info"
+  },
+  "require": { }
+}

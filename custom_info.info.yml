@@ -1,0 +1,5 @@
+name: 'Custom Info'
+type: module
+description: "This module modifies Drupal's Site Information."
+core: 8.x
+package: 'Axelerant'
